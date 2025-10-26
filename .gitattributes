@@ -1,3 +1,2 @@
-*.unity3d binary
-*.unity binary
-* binary
+*.unity3d binary -text -diff -merge
+*.unity binary -text -diff -merge
